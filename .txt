@@ -1,0 +1,8 @@
+.... message Model....
+
+senderID = 675dc7f9db62ae7c9c002976
+recerverID = 675dc58a290d1c4958d6c9c2
+message= "Hello"
+
+Suraj(sender) ----> "Hello"
+Niraj(recever) --> "Hi"

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  font-family: Inter, Avenir, helvetica, Arial, sans-serif;
+}
+
+.flex-suraj::-webkit-scrollbar {
+  display: none;
+}
